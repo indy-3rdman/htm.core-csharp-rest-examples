@@ -47,3 +47,7 @@ An adoption of the python script provided at the end of this [blog post](https:/
 
 For both examples the configuration options are located in a separate file (ExampleConfiguration.cs). 
 So if you want to play around with your own NetworkAPI settings, or adjust the URL to the NetworkAPI REST interface (default is http://localhost:8050/network), that's where to change it.
+
+## Additional information
+
+Please have a look at this [post](https://3rdman.de/2020/06/htm-core-and-csharp/).
