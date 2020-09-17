@@ -3,7 +3,9 @@
 Some basic examples that show how to consume the [htm.core](https://github.com/htm-community/htm.core) [NetworkAPI REST Interface](https://github.com/htm-community/htm.core/blob/master/docs/NetworkAPI_REST.md) using C# and .NET Core 3.1.
 
 Current build status:
-https://ci.appveyor.com/api/projects/status/9k6qljglq6b4295r/branch/master?svg=true
+[![Build status](https://ci.appveyor.com/api/projects/status/9k6qljglq6b4295r/branch/master?svg=true)](https://ci.appveyor.com/project/indy/htm-core-csharp-rest-examples/branch/master)
+
+
 
 
 ## Pre-requisites
